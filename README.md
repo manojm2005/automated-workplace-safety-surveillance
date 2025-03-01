@@ -92,12 +92,6 @@ https://github.com/user-attachments/assets/c5db4638-6a82-44bc-a846-7bf7187ca8fc
 - Enhanced alert customization.
 - Integration with IoT-based safety systems.
 
-## 🤝 Contributing
-
-1. Fork the repository.
-2. Create a new branch (`feature/new-feature`).
-3. Submit a pull request.
-
 ## 📧 Contact
 
 For inquiries and collaboration, reach out to: `manojmuniyasamy21@gmail.com`

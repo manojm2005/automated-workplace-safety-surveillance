@@ -72,6 +72,10 @@ Press `q` to stop the program.
 3. Identify and log missing PPE.
 4. Trigger voice alerts every 5 seconds if safety violations are detected.
 
+### 📹 Sample Output
+
+![Sample Output](Video/sample_output.mp4)
+
 ## 🛠️ Customization
 
 1. **Modify Alert Frequency:** Adjust the `alert_interval` in `alert_systems.py`.

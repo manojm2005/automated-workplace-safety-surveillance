@@ -74,7 +74,7 @@ Press `q` to stop the program.
 
 ### 📹 Sample Output
 
-![Sample Output](Video/sample_output.mp4)
+![Sample Output](Sample Output.mp4)
 
 ## 🛠️ Customization
 

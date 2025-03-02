@@ -1,6 +1,6 @@
-# Automated Workplace Safety Surveillance (AWSS)
+# Automated Workplace Safety Surveillance
 
-An advanced AI-powered **Automated Workplace Safety Surveillance (AWSS)** system that detects the absence of Personal Protective Equipment (PPE) in real-time and issues voice alerts. This project enhances workplace safety by reducing human error and ensuring compliance with safety protocols.
+An advanced AI-powered **Automated Workplace Safety Surveillance ** system that detects the absence of Personal Protective Equipment (PPE) in real-time and issues voice alerts. This project enhances workplace safety by reducing human error and ensuring compliance with safety protocols.
 
 ## 📊 Key Features
 

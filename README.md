@@ -94,5 +94,5 @@ https://github.com/user-attachments/assets/c5db4638-6a82-44bc-a846-7bf7187ca8fc
 
 ## 📧 Contact
 
-For inquiries and collaboration, reach out to: `manojmuniyasamy21@gmail.com`
+For inquiries and collaboration, reach out to: `manojmuniyasamy20@gmail.com`
 
